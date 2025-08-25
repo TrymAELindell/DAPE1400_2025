@@ -3,7 +3,7 @@ package module1introduction;
 public class VariablesStrings {
     public static void main (String[] args) {
 
-        // En variabel er en referanse til data i Random Access Memory (RAM)
+        // En variabel er ett navngitt område i Random Access Memory (RAM)
         // Denne dataen kan være av flere forskjellige typer.
         // Her skal vi se på data av typen String
         // Dette er "strenger" av bokstaver
