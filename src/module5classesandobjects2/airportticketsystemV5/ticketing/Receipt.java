@@ -1,6 +1,6 @@
-package module5static.airportticketsystemV5.ticketing;
+package module5classesandobjects2.airportticketsystemV5.ticketing;
 
-import static module5static.airportticketsystemV5.pricing.Tax.*;
+import static module5classesandobjects2.airportticketsystemV5.pricing.Tax.*;
 
 
 public class Receipt {

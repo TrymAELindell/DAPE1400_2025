@@ -1,4 +1,4 @@
-package module5static.airportticketsystemV5.pricing;
+package module5classesandobjects2.airportticketsystemV5.pricing;
 
 public class Tax {
     private static double VAT = 0.25;

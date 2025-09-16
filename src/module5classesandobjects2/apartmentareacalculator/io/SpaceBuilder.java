@@ -1,7 +1,7 @@
-package module5static.apartmentareacalculator.io;
+package module5classesandobjects2.apartmentareacalculator.io;
 
 import static javax.swing.JOptionPane.*;
-import module5static.apartmentareacalculator.spaces.*;
+import module5classesandobjects2.apartmentareacalculator.spaces.*;
 public class SpaceBuilder {
 
     public static Apartment buildApartment() {

@@ -1,6 +1,6 @@
-package module5static.apartmentareacalculator;
-import module5static.apartmentareacalculator.io.SpaceBuilder;
-import module5static.apartmentareacalculator.spaces.Apartment;
+package module5classesandobjects2.apartmentareacalculator;
+import module5classesandobjects2.apartmentareacalculator.io.SpaceBuilder;
+import module5classesandobjects2.apartmentareacalculator.spaces.Apartment;
 import static javax.swing.JOptionPane.*;
 
 

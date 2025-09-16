@@ -1,4 +1,4 @@
-package module5static.airportticketsystemV5.ticketing;
+package module5classesandobjects2.airportticketsystemV5.ticketing;
 
 public class Ticket {
     private String name;

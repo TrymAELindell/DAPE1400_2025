@@ -1,4 +1,4 @@
-package module5static.airportticketsystemV4;
+package module5classesandobjects2.airportticketsystemV4;
 
 public class TicketV4 {
     private int ticketNr; // attribut som vil tilhøre instanser (objekter) av klassen

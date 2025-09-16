@@ -1,6 +1,6 @@
-package module5static.airportticketsystemV5;
+package module5classesandobjects2.airportticketsystemV5;
 
-import module5static.airportticketsystemV5.ticketing.Purchase;
+import module5classesandobjects2.airportticketsystemV5.ticketing.Purchase;
 
 
 public class Main {

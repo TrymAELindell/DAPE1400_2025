@@ -1,4 +1,4 @@
-package module5static.airportticketsystemV4;
+package module5classesandobjects2.airportticketsystemV4;
 
 public class Main {
     public static void main(String[] args) {

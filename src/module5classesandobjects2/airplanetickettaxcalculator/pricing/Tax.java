@@ -1,4 +1,4 @@
-package module5static.airplanetickettaxcalculator.pricing;
+package module5classesandobjects2.airplanetickettaxcalculator.pricing;
 
 public class Tax {
     private static double passengerFee = 60;

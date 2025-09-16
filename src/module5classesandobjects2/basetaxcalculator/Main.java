@@ -1,4 +1,4 @@
-package module5static.basetaxcalculator;
+package module5classesandobjects2.basetaxcalculator;
 import static javax.swing.JOptionPane.*;
 
 public class Main {

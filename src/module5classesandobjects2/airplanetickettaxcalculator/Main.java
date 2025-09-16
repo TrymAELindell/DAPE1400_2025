@@ -1,7 +1,7 @@
-package module5static.airplanetickettaxcalculator;
+package module5classesandobjects2.airplanetickettaxcalculator;
 
 import static javax.swing.JOptionPane.*;
-import static module5static.airplanetickettaxcalculator.pricing.Tax.*;
+import static module5classesandobjects2.airplanetickettaxcalculator.pricing.Tax.*;
 
 public class Main {
     public static void main(String[] args) {

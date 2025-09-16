@@ -1,4 +1,4 @@
-package module5static.apartmentareacalculator.spaces;
+package module5classesandobjects2.apartmentareacalculator.spaces;
 
 public class Room {
     private double width;

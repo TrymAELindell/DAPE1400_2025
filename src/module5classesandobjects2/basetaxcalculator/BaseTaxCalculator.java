@@ -1,4 +1,4 @@
-package module5static.basetaxcalculator;
+package module5classesandobjects2.basetaxcalculator;
 
 public class BaseTaxCalculator {
     public static double calculateBaseTax(double income) {
