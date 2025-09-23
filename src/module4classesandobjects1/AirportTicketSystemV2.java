@@ -14,7 +14,10 @@ public class AirportTicketSystemV2 {
         // og name og persoNr blir ikke endret
         ticket1.printTicketInfo();
 
-        // Denne koden 
+        // Metoden setPassengerInfo er den eneste måten vi kan endre navn og personNr på
+        // siden den krever både navn og personNr som input blir brukeren tvunget til å
+        // endre begge på en gang.
+        // Vi unngår dermed problemet med at noen kun endrer en av attributtene når passasjeren endres
         ticket1.setPassengerInfo("Kristian", "01107012345");
         ticket1.printTicketInfo();
     }
