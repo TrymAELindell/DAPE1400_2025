@@ -1,10 +1,10 @@
 package module11AbstractInterace.animalsv1;
 
-public class Cat extends Animal {
+public class Cat extends Mammal {
     private String favouriteFood;
 
-    public Cat(String name, boolean foodProvider, String favouriteFood) {
-        super(name, foodProvider);
+    public Cat(String name, boolean foodProvider, int nrOfTeats, String favouriteFood) {
+        super(name, foodProvider, nrOfTeats);
         this.favouriteFood = favouriteFood;
     }
 

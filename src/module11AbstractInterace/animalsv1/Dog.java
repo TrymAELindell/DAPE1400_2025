@@ -1,11 +1,11 @@
 package module11AbstractInterace.animalsv1;
 
-public class Dog extends Animal {
+public class Dog extends Mammal {
 
     private boolean canFetchNewsPaper;
 
-    public Dog(String name, boolean foodProvider, boolean canFetchNewsPaper) {
-        super(name, foodProvider);
+    public Dog(String name, boolean foodProvider, int nrOfTeats, boolean canFetchNewsPaper) {
+        super(name, foodProvider, nrOfTeats);
         this.canFetchNewsPaper = canFetchNewsPaper;
     }
 

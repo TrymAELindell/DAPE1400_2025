@@ -8,13 +8,13 @@ public abstract class Animal {
         return name;
     }
 
-    public boolean isFoodProvider() {
-        return foodProvider;
-    }
-
     public Animal(String name, boolean foodProvider) {
         this.name = name;
         this.foodProvider = foodProvider;
+    }
+
+    public boolean isFoodProvider() {
+        return foodProvider;
     }
 
     public abstract void makeSound();
