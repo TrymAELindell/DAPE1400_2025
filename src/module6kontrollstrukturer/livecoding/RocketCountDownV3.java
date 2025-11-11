@@ -28,7 +28,7 @@ public class RocketCountDownV3 {
                 // Her fanger jeg unntaket og ber brukeren prøve igjen.
                 showMessageDialog(null, "Du må skrive inn et tall. Prøv igjen...");
             }
-            // Dette må vi gjøre så lange (while) vi ikke har fått et gyldig tall for nedtellingen.
+            // Dette må vi gjøre så lenge (while) vi ikke har fått et gyldig tall for nedtellingen.
         } while(countFrom<=0);
 
         // Nå har jeg fått et gyldig tall fra brukeren.

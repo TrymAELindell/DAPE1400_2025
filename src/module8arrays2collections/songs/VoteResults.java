@@ -40,22 +40,14 @@ public class VoteResults {
      * Traversing (going through) all Votes to find (and return) the vote with the highest score.
      */
     public Vote highestScore(){
-        // Let's start by setting the highest score to 0
         double highestScore = 0;
-        // and the vote to return to null (no object)
         Vote highestVote = null;
-        // Going through all votes with a for-each-loop
         for (Vote vote : allVotes) {
-            // Checking to see if the current vote has a higher score than the current highest score.
             if(vote.getScore()>highestScore){
-                // Found one!
-                // I update the object to return as this vote currently has the highest score
                 highestVote = vote;
-                // I also update the score. This will be the new score to beat.
                 highestScore = vote.getScore();
             }
         }
-        // I have gone through all votes. I return the one found with the highest score.
         return highestVote;
     }
 

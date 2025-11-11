@@ -7,8 +7,8 @@ public class Main {
         The program can be run i two different modes. We simply plug in the
         mode we want by choosing the implementation of the interface.
          */
-        Program p = new Program(new AnimalTestProvider());
-        //Program p = new Program(new AnimaUserProvider());
+        //Program p = new Program(new AnimalTestProvider());
+        Program p = new Program(new AnimaUserProvider());
         p.runProgram();
     }
 }
